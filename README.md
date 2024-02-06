@@ -1,2 +1,2 @@
-install db.db script on mysql server
+install db.sql script on mysql server
 
